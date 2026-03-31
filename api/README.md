@@ -92,6 +92,4 @@ npm start
 }
 ```
 
-## Observação
 
-Esse projeto foi estruturado de forma simples e organizada, com comentários mais humanos, como se fosse desenvolvido por um(a) estudante da 5ª fase de ADS.
